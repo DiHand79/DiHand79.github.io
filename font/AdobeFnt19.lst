@@ -1,0 +1,183 @@
+%!Adobe-FontList 1.19
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Bold.eot
+FileModTime:1424790858
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Bold.svg
+FileModTime:1424790858
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ProximaNova-Bold
+FamilyName:Proxima Nova
+StyleName:Bold
+FullName:Proxima Nova Bold
+MenuName:Proxima Nova Rg
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:129556
+FileModTime:1424790858
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Bold
+NameArray:0,Win,1,Proxima Nova Rg
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Bold.woff
+FileModTime:1424790858
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Light.eot
+FileModTime:1425391756
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Light.svg
+FileModTime:1425391756
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ProximaNova-Light
+FamilyName:Proxima Nova
+StyleName:Light
+FullName:Proxima Nova Light
+MenuName:Proxima Nova Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:132104
+FileModTime:1425391756
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Light
+NameArray:0,Win,1,Proxima Nova Lt
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Light.woff
+FileModTime:1425391756
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Regular.eot
+FileModTime:1389873196
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Regular.svg
+FileModTime:1389873194
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+FullName:Proxima Nova Regular
+MenuName:Proxima Nova Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130636
+FileModTime:1389873194
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Regular
+NameArray:0,Win,1,Proxima Nova Rg
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Regular.woff
+FileModTime:1389873200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Semibold.eot
+FileModTime:1457025402
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Semibold.svg
+FileModTime:1457025400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ProximaNova-Semibold
+FamilyName:Proxima Nova
+StyleName:Semibold
+FullName:Proxima Nova Semibold
+MenuName:Proxima Nova Lt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130760
+FileModTime:1457025400
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Proxima Nova Semibold
+NameArray:0,Win,1,Proxima Nova Lt
+NameArray:0,Win,16,Proxima Nova
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\CreativeWork\_FRONT_END_\HILLEL\11_PSD7_Adaptive\Font\ProximaNova-Semibold.woff
+FileModTime:1457025400
+%EndFont
+
